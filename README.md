@@ -1,6 +1,6 @@
 # 🛍️ Easy Shopping – Flutter & Firebase E-Commerce App
 
-A powerful e-commerce solution built with **Flutter** and **Firebase**, featuring both a full-featured **Admin Dashboard** and a smooth **User Experience**. Designed with clean UI, advanced functionality, and scalable architecture.
+A powerful e-commerce solution built with **Flutter**, **Firebase** and **GetX**, featuring both a full-featured **Admin Dashboard** and a smooth **User Experience**. Designed with clean UI, advanced functionality, and scalable architecture.
 
 ![cover](screenshots/user1.jpg)
 
